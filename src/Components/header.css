@@ -5,3 +5,5 @@
     box-shadow: 2px 2px;
     color:red;
 }
+button{background-color: aquamarine;}
+button:hover{background-color: blueviolet;}

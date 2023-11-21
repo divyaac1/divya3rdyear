@@ -6,7 +6,7 @@ const Header = () => {
 
     <div>
       <p className='para'>
-        <center>Header</center>
+        <center><b><i><u>Headercd </u></i></b></center>
       </p>
     </div>
   )
